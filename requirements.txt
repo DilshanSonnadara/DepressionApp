@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+GradientBoostingClassifier
+pickle
+streamlit_player
